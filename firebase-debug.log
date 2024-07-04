@@ -1,0 +1,21 @@
+[debug] [2024-07-02T20:36:32.663Z] ----------------------------------------------------------------------
+[debug] [2024-07-02T20:36:32.669Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-07-02T20:36:32.669Z] CLI Version:   13.12.0
+[debug] [2024-07-02T20:36:32.670Z] Platform:      win32
+[debug] [2024-07-02T20:36:32.670Z] Node Version:  v20.12.2
+[debug] [2024-07-02T20:36:32.670Z] Time:          Tue Jul 02 2024 13:36:32 GMT-0700 (Pacific Daylight Time)
+[debug] [2024-07-02T20:36:32.670Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-07-02T20:36:32.683Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-07-02T20:36:32.683Z] > authorizing via signed-in user (saoconcept1@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\USER\Desktop\whatsapp-clone-react-tailwind\whatsapp-clone
+
